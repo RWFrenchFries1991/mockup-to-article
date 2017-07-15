@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?  I have learned a lot of new html elements like <sup> and <sub>.  
+  * What has been easy? Refreshing and updating html and css has been easy and fun, it’s all coming back to me.
+  * What has been difficult? Nothing has been difficult so far.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far? The MDN is a life saver, also taking breaks helps.
+
+---
+
+Your response goes here!
